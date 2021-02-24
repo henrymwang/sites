@@ -13,7 +13,7 @@
 				"template": "eps.source",
 				"urlTemplate": "eps.url"
 			}
-		},
+		}
 	],
 	"ci_config": {
 		"output_directories": ["templates", "desktop"],
